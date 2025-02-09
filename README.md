@@ -27,6 +27,9 @@ Since then, the PostgreSQL Global Development Group, a dedicated community of co
 Originally, PostgreSQL was designed to run on UNIX-like platforms. 
 And then, PostgreSQL evolved to run on various platforms such as Windows, macOS, and Solaris.
 
+## RoadMap
+
+![alt text](postgresql-dba.jpg)
 
 
 ## Connect to PostgreSQL Database using SQL Shell & pgAdmin:
